@@ -35,7 +35,7 @@ dependencies {
 File -> Settings -> Plugins -> 상단 톱니바퀴 아이콘 클릭(아래 이미지 참고) -> Install Plugin from Disk -> 설치한 Lombok 선택
 
 ## 상단 톱니바퀴 참고 이미지
-![plugins1](https://user-images.githubusercontent.com/73802331/179897388-9dd3ef37-2b2b-4029-89d9-61cb84703723.png)
+![plugins1](https://user-images.githubusercontent.com/73802331/179897587-1b52b3a7-d288-46ad-ba0c-11afd41a492a.png)
 
 
 dependencies 라이브러리를 추가하고 Lombok 플러그인을 변경까지 했더니 문제가 해결됐다.
