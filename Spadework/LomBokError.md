@@ -32,7 +32,10 @@ dependencies {
 세 번째 방법으로 안드로이드 스튜디오에 호환되는 Lombok 파일을 다운 받아 플러그인 폴더로 시켜준다.
 
 ## 플러그인 폴더에 외부 라이브러리 추가 방법
-File -> Settings -> Plugins -> 상단 톱니바퀴 아이콘 클릭 -> Install Plugin from Disk -> 설치한 Lombok 선택
+File -> Settings -> Plugins -> 상단 톱니바퀴 아이콘 클릭(아래 이미지 참고) -> Install Plugin from Disk -> 설치한 Lombok 선택
+
+## 상단 톱니바퀴 참고 이미지
+![plugins](https://user-images.githubusercontent.com/73802331/179897195-621ca803-5111-469f-9324-eb287e2d24f2.png)
 
 
 dependencies 라이브러리를 추가하고 Lombok 플러그인을 변경까지 했더니 문제가 해결됐다.
