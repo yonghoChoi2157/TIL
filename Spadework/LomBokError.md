@@ -18,7 +18,7 @@ Room과 Lombok을 같이 사용하려면 아래와 같이 Lombok 라이브러리
 ```gradle
 dependencies {
     ...
-    compile 'org.projectlombok:lombok:1.18.16'
+    implementation 'org.projectlombok:lombok:1.18.16'
     annotationProcessor 'org.projectlombok:lombok:1.18.16'
 
     implementation 'androidx.room:room-rxjava2:2.2.5'
