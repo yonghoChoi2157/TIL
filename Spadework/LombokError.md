@@ -1,4 +1,4 @@
-# 안드로이드 스튜디오 LomBok 에러
+# 안드로이드 스튜디오 Lombok 에러
 안드로이드 스튜디오 버전을 올리니 Lombok을 사용하는 곳에서 cannot find symbol 에러가 발생했다.
 
 구글링을 해보니 build.gradle 에 아래 코드를 추가해주면 해결이 된다고 한다.
