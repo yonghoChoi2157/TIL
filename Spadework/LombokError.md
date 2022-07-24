@@ -12,7 +12,7 @@ dependencies {
 
 하지만 나는 해결되지 않았다.
 
-또 하나의 방법으로 나는 Room과 Lombok를 같이 사용하고 있었는데
+또 하나의 방법으로 Room과 Lombok을 같이 사용하고 있었는데
 
 Room과 Lombok을 같이 사용하려면 아래와 같이 Lombok 라이브러리가 Room 라이브러리 보다 위에 있어야 한다.
 ```gradle
